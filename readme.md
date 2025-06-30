@@ -25,6 +25,8 @@ I'm YC the engineer, and this is my GitHub Profile!
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://github.com/ImStudent02" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a herf="https://www.linkedin.com/in/ycmayani02/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+
   <!-- Add more social links here -->
 </p>
 
