@@ -42,7 +42,7 @@ I'm YC the engineer, and this is my GitHub Profile!
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p><br>
 <div align="center">
-  SQL | AWS | JS | NODE | REACT | ECT
+  SQL | AWS | JS | NODE | REACT |GIT IT SELF| ECT
 </div>
 
 ---
