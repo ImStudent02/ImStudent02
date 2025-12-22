@@ -14,11 +14,11 @@ I'm YC the engineer, and this is my GitHub Profile!
 ---
 
 - 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **everything Khatarnak**
+- 🌱 I’m experimenting for reserch**
 - 👯 I’m looking to collaborate on **Open Source**
 - 🤝 I’m looking for help with **new ideas**
-- 💬 Ask me about **Web Development, Python, or anything Tech!**
-- ⚡ Fun fact: **I code at the speed of thought!**(don't take it seriously I'm good but not robot.)
+- 💬 Ask me about **Anything Tech! or Business suggestions**
+- ⚡ Fun fact: **I code at the speed of thought!**(don't take it seriously I'm good but not robot, just user of robot.)
 
 ---
 
@@ -62,5 +62,5 @@ I'm YC the engineer, and this is my GitHub Profile!
 ---
 
 <p align="center">
-  <b>Always Be Khatarnak! 💥</b>
+  <b>Always Be Awasome!💥</b>
 </p>
