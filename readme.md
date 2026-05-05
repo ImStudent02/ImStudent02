@@ -6,6 +6,7 @@ I'm YC the engineer, and this is my GitHub Profile!
 
 <h1 align="center">Hi 👋, I'm ImStudent02(YC)</h1>
 <h3 align="center">An Engineer | Learner | Creator | Helper</h3>
+About me more: https://yc-mu-three.vercel.app/
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
