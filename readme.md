@@ -6,7 +6,6 @@ I'm YC the engineer, and this is my GitHub Profile!
 
 <h1 align="center">Hi 👋, I'm ImStudent02(YC)</h1>
 <h3 align="center">An Engineer | Learner | Creator | Helper</h3>
-About me more: https://yc-mu-three.vercel.app/
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
@@ -20,6 +19,7 @@ About me more: https://yc-mu-three.vercel.app/
 - 🤝 I’m looking for help with **new ideas**
 - 💬 Ask me about **Anything Tech! or Business suggestions**
 - ⚡ Fun fact: **I code at the speed of thought!**(don't take it seriously I'm good but not robot, just user of robot.)
+- About me more: https://yc-mu-three.vercel.app/
 
 ---
 
