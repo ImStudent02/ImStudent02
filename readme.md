@@ -49,7 +49,7 @@ Passionate software engineer with a strong technical foundation and a growing in
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImStudent02&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImStudent02&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
