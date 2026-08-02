@@ -12,13 +12,8 @@ I'm YC the engineer, and this is my GitHub Profile!
 </p>
 
 ---
+Passionate software engineer with a strong technical foundation and a growing interest in technology management and leadership. Currently focused on building innovative projects, exploring research, and contributing to open-source initiatives. Enjoy collaborating with diverse teams, solving technical and business challenges, and continuously learning new technologies. Recently, I have been actively developing management and strategic decision-making skills to bridge the gap between engineering and leadership while driving impactful solutions.
 
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m experimenting for reserch**
-- 👯 I’m looking to collaborate on **Open Source**
-- 🤝 I’m looking for help with **new ideas**
-- 💬 Ask me about **Anything Tech! or Business suggestions**
-- ⚡ Fun fact: **I code at the speed of thought!**(don't take it seriously I'm good but not robot, just user of robot.)
 - About my recent stuff: https://dreamcommunication.42web.io/
 
 ---
