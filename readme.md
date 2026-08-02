@@ -19,7 +19,7 @@ I'm YC the engineer, and this is my GitHub Profile!
 - 🤝 I’m looking for help with **new ideas**
 - 💬 Ask me about **Anything Tech! or Business suggestions**
 - ⚡ Fun fact: **I code at the speed of thought!**(don't take it seriously I'm good but not robot, just user of robot.)
-- About me more: https://yc-mu-three.vercel.app/
+- About my recent stuff: https://dreamcommunication.42web.io/
 
 ---
 
