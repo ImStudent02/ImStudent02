@@ -43,9 +43,6 @@ Passionate software engineer with a strong technical foundation and a growing in
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImStudent02&show_icons=true&theme=radical" alt="ImStudent02's github stats"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImStudent02&theme=radical" alt="ImStudent02's streak"/>
