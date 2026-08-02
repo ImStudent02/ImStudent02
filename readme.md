@@ -47,11 +47,43 @@ Passionate software engineer with a strong technical foundation and a growing in
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImStudent02&theme=radical" alt="ImStudent02's streak"/>
 </p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImStudent02&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+## 🎮 Fun Games - Play & Enjoy!
 
+<div align="center">
+
+| 🎲 Dice Roll | 🎯 Guess Number | 🎪 Emoji Slots |
+|:---:|:---:|:---:|
+| Roll the dice! Pick 1-6 | Guess number 1-10 | Spin & Match! |
+| **[🎲 1]** **[🎲 2]** **[🎲 3]** | Type your guess: | **🍎 🍌 🍎** |
+| **[🎲 4]** **[🎲 5]** **[🎲 6]** | 1️⃣2️⃣3️⃣4️⃣5️⃣ | **🍌 🍌 🍌** ✨ |
+| Roll: `Random(1-6)` | 6️⃣7️⃣8️⃣9️⃣🔟 | **🍎 🎯 🍎** |
+| Win = Roll! 🎉 | Correct? 🎊 | 3 Match = Win! 🏆 |
+
+</div>
+
+<details>
+<summary><b>📋 How to Play (Click to Expand)</b></summary>
+
+### 🎲 Dice Roll Game
+- Click on dice 1-6
+- Try to guess which number will appear
+- Roll multiple times and see your luck!
+
+### 🎯 Number Guessing Game  
+- I'm thinking of a number 1-10
+- Pick a number from the list
+- "Higher", "Lower", or "Correct!" 🎊
+
+### 🎪 Emoji Slots Game
+- Spin the emoji slots!
+- Match all 3 emojis = WIN! 🏆
+- Available: 🍎🍌🍒🎯🔥⭐
+
+</details>
+
+<br>
 ---
 
 <p align="center">
